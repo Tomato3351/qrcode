@@ -1,1 +1,2 @@
 # qrcode
+a qrcode generator
